@@ -1,0 +1,80 @@
+.button:hover {
+  background-color: rgb(250, 232, 232);
+}
+
+.first ul {
+  list-style-type: none;
+}
+
+.first ul li {
+  font-size: 30px;
+  font-weight: 600;
+}
+
+.first ul li a {
+  color: white;
+  text-decoration: none;
+}
+
+.first ul li a:hover {
+  background-color: #46494f;
+  padding: 5px 10px;
+  border-radius: 30px;
+}
+
+.first ul li a:focus {
+  background-color: #46494f;
+  padding: 5px 10px;
+  border-radius: 30px;
+  color: rgb(17, 255, 0);
+}
+
+.breakfast {
+  background-image: url(./images/breakfast.png);
+}
+
+.burger {
+  background-image: url(./images/burgers.png);
+}
+.chicken {
+  background-image: url(./images/chicken.webp);
+}
+.cholla {
+  background-image: url(./images/chhola.jpg);
+}
+.desserts {
+  background-image: url(./images/desserts.png);
+}
+.dossa {
+  background-image: url(./images/dosa.jpg);
+}
+.drinks {
+  background-image: url(./images/drinks.jpg);
+}
+.fries {
+  background-image: url(./images/fries.png);
+}
+.gujrati {
+  background-image: url(./images/gujrati.jpeg);
+}
+.idli {
+  background-image: url(./images/idli.jpg);
+}
+.masala {
+  background-image: url(./images/masala.jpg);
+}
+.paneer {
+  background-image: url(./images/paneer.jpg);
+}
+.pizza {
+  background-image: url(./images/pizza.webp);
+}
+.salads {
+  background-image: url(./images/salads.png);
+}
+.sandwiches {
+  background-image: url(./images/sandwiches.png);
+}
+.tacos {
+  background-image: url(./images/tacos.webp);
+}
